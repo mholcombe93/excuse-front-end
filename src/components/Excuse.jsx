@@ -38,7 +38,7 @@ function Excuse() {
       <button className="Button" onClick={handleClick} name="office">Office Work</button>
       <button className="Button" onClick={handleClick} name="party">Party</button>
       <button className="Button" onClick={handleClick} name="children">Children</button>
-      <button className="Button" onClick={handleClick} name="college">Party</button>
+      <button className="Button" onClick={handleClick} name="college">College</button>
       <button className="Button" onClick={handleClick} name="funny">Funny</button>
       <button className="Button" onClick={handleClick} name="unbelievable">Unbelievable</button>
       <button className="Button" onClick={handleClick} name="developers">Developers</button>
